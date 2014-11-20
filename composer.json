@@ -1,0 +1,13 @@
+{
+    "name":"usap/observer-pattern",
+    "type":"library for observer pattern",
+    "description":"Observer Pattern Library",
+    "keywords":["design pattern","observer pattern"],
+    "homepage":"http://github.com/folpindo/observer-pattern",
+    "authors":[{"name":"folpindo@gmail.com"}],
+    "autoload":{
+        "psr-0":{
+            "Subscribe":"src"
+        }
+    }
+}
