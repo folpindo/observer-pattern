@@ -1,6 +1,6 @@
 {
     "name":"folpindo/observerpattern",
-    "type":"library for observer pattern",
+    "type":"library",
     "description":"Observer Pattern Library",
     "keywords":["design pattern","observer pattern"],
     "homepage":"http://github.com/folpindo/observer-pattern",
